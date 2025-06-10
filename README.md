@@ -102,7 +102,7 @@ Los insights clave y análisis están en los notebooks:
 
 ---
 
-## 📦 Autor
+##  Autor
 
-**Setoro Unal**  
+**Juan Sebastian Torres Romero**  
 [GitHub Profile](https://github.com/SetoroUnal)
