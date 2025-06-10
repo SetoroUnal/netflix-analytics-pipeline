@@ -1,0 +1,10 @@
+Dimensiones válidas (rating): 4 registros con FK inválidas.
+Dimensiones válidas (rating): 4 registros con FK inválidas.
+Dimensiones válidas (rating): 4 registros con FK inválidas.
+Dimensiones válidas (rating): 4 registros con FK inválidas.
+Dimensiones válidas (rating): 4 registros con FK inválidas.
+Dimensiones válidas (rating): 4 registros con FK inválidas.
+Dimensiones válidas (rating): 4 registros con FK inválidas.
+Dimensiones válidas (rating): 4 registros con FK inválidas.
+Dimensiones válidas (rating): 4 registros con FK inválidas.
+Dimensiones válidas (rating): 4 registros con FK inválidas.

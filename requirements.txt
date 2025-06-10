@@ -1,0 +1,26 @@
+# Core
+numpy<2.0
+pandas>=1.5
+python-dotenv
+sqlalchemy
+psycopg2-binary
+
+# Visualización
+matplotlib
+seaborn
+
+# Kaggle
+kaggle
+kagglehub
+
+# Machine Learning
+scikit-learn
+bottleneck>=1.3.6
+numexpr>=2.8.4
+
+# GCP (opcional)
+pandas-gbq
+google-cloud-bigquery
+
+# Generative AI
+openai==0.28
